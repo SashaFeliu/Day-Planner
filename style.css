@@ -1,0 +1,50 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+.display-3 {
+  color: skyblue;
+}
+
+.col-10 {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border: 2px solid skyblue;
+  padding: 10px;
+  white-space: pre-wrap;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: #ddfbfa;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+#time {
+  padding: 23px;
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.rowBtn {
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: skyblue;
+  color: white;
+}
